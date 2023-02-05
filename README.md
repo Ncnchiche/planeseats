@@ -1,5 +1,6 @@
-# planeseats
-Program Description
+<h1 align="center">planeseats</h1>
+
+## Program Description
 
 This Program assigns seats in an airplane. There are 12 seats on the plane, 4 in first class and 8 in economy.
 
@@ -16,3 +17,4 @@ This Program assigns seats in an airplane. There are 12 seats on the plane, 4 in
 •  If the user says no, tell them "The next flight will be tomorrow."
 
 •  If there are no seats available, tell them "The next flight will be tomorrow.""
+
